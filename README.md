@@ -4,11 +4,11 @@
 - Project : 개인 프로젝트를 진행하며 정리하는 페이지
 - Reference : 다양한 레퍼런스를 아카이빙 하는 페이지
 
-# Practice
+## Practice
 
-# Project
+## Project
 
-# Reference
+## Reference
 
-# ETC - Notion page
+### ETC - Notion page
 https://roasted-rake-be8.notion.site/Recommender-System-6cf7528bb06244ea830e86281257a8cf?pvs=4
