@@ -1,4 +1,7 @@
-# INDEX
+# Recsys Study
+- 추천시스템에 대해 연구하고 정리하는 레포
+
+## INDEX
 - Paper : 논문의 주요 내용들을 정리하는 페이지
 - Practice : 코드 구현 및 실험 정리
 - Project : 개인 프로젝트를 진행하며 정리하는 페이지
