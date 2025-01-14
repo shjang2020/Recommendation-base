@@ -14,6 +14,7 @@
 ## 📘Project
 
 ## 📙Reference
+- https://github.com/lsjsj92/recommender_system_with_Python
 
 #### ETC - Notion page
 https://roasted-rake-be8.notion.site/Recommender-System-6cf7528bb06244ea830e86281257a8cf?pvs=4
